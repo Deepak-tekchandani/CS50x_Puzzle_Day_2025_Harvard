@@ -1,0 +1,11 @@
+1.Around the world --> ISTANBUL
+2.BanaAnagrams --> EGGPLANT
+3.The Blind Maze --> CEREBRAL
+4.Bomb Squad --> OFFWHITE
+5.Power of Two --> DISCOVER
+6.Tangrams --> CHILIDOG
+7.Ticket to Ride --> TRANSACT
+8.Wavelength -- > INFRARED
+9.MetaPuzzle --> PARADISE
+
+
