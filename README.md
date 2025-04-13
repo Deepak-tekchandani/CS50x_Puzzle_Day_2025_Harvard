@@ -35,7 +35,7 @@ Welcome to my CS50x Puzzle Day 2025 repository! This space showcases my particip
 ## 🏅 Certificate of Participation
 
 <p align="center">
-  <img src="CS50x%20Puzzle%20Day%202025.png" alt="Certificate" width="500"/>
+  <img src="CS50xPuzzleDay2025.png" alt="Certificate" width="500"/>
 </p>
 
 🔗 **[View Full Certificate (PDF)](https://certificates.cs50.io/c744f103-514c-492f-8a8c-f06e37a0509a.pdf?size=letter)**
@@ -58,7 +58,7 @@ Here are some key takeaways from the event that left a lasting impact:
 ## 📸 Glimpses of Our Team Collaboration
 
 <p align="center">
-  <img src="Screenshot (518).png" alt="Team Collaboration Screenshot" width="500"/>
+  <img src="team_Screenshot.png" alt="Team Collaboration Screenshot" width="500"/>
 </p>
 
 ---
